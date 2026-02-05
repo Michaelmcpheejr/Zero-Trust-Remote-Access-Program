@@ -34,3 +34,4 @@ No production identifiers are included; screenshots are redacted.
 ## Role / Ownership
 - McPhee — GRC lead: scope, risk articulation, scoring, control mapping, treatment, residual risk, executive brief
 - Rayvaugn — networking support: diagrams and evidence capture (separate technical repo)
+https://github.com/Rayvaugn1/Zero-Trust-Remote-Access-Program/tree/main
