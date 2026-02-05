@@ -1,0 +1,6 @@
+*.pem
+*.key
+*.pfx
+.env
+.DS_Store
+Thumbs.db
